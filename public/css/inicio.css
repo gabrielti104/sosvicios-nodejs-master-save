@@ -1,5 +1,7 @@
 #navbarBasicExample{
-    margin-top: 50px;
+    margin-top: 30px;
+    padding-bottom:30px;
+
 
 }
 
@@ -19,7 +21,8 @@
   background-position: center;
   border: 1px solid darkgray;
   color: #000; text-shadow: 1px 1px 0 #fff;
-  margin-bottom: 100px;   
+  margin-bottom: 100px;
+  margin-top: 140px;   
 }
 
 .tratamentos{
